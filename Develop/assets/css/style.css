@@ -137,7 +137,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
- /* links go to section */)
+ /* links go to section */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -156,7 +157,7 @@ p {
     color: #ffffff;
 }
 
-.content {
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -177,11 +178,11 @@ p {
     max-height: 200px;
 }
 
-/* consolidated all h2 as they have the same rules adn families */
-<h2> {
+.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 
 .footer {
     padding: 30px;
