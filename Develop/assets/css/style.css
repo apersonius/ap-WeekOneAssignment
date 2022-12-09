@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header section - xyz */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -63,6 +65,8 @@ p {
     float: left;
     margin-right: 25px;
 }
+
+/* aside menu */
 
 .float-right {
     float: right;
@@ -133,7 +137,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+ /* links go to section */)
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,7 +156,7 @@ p {
     color: #ffffff;
 }
 
-.social-media-marketing {
+.content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -173,17 +177,8 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/* consolidated all h2 as they have the same rules adn families */
+<h2> {
     margin-bottom: 20px;
     font-size: 36px;
 }
